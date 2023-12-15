@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+p{
+    text-align: center;
+    font-size: 13px monospace;
+    color: black;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover{
+    background-color:white;
+  }
+
+
+img{
+    width: 1000px;
+    height: 500px;
+}
